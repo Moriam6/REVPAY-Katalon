@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>regenerateReceipt(paymentRef)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0fbf824-1fe7-4aa1-b19f-30b8f859452f</testCaseGuid>
+</TestCaseEntity>
